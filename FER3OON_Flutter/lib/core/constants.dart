@@ -1,6 +1,6 @@
 class AppConstants {
   // API Configuration
-  static const String baseUrl = 'YOUR_BACKEND_URL_HERE'; // Replace with Railway URL
+  static const String baseUrl = 'https://all-project-production.up.railway.app/'; // Replace with Railway URL
   
   // API Endpoints
   static const String registerEndpoint = '/api/auth/register';
